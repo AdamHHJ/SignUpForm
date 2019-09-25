@@ -1,6 +1,7 @@
 
 an Android application to collect a user’s name, email, a password, and a password confirmation. It also contains a Save button.Afterwords it will display a message containing the user’s name, welcoming them to the app
-###Project Introduction
+
+Project Introduction
 
 
 	compileSdkVersion 29
